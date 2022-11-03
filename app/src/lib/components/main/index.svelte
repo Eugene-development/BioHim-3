@@ -1,4 +1,5 @@
-			<div  class="bg-[url('https://storage.yandexcloud.net/brand-logo/biohim/foto/bg.png')] sm:pt-4 sm:pb-36 md:pb-24 lg:pb-0 lg:overflow-hidden ">
+			<div class="bg-main">
+                            <div  class="bg-[url('https://storage.yandexcloud.net/brand-logo/biohim/foto/bg.png')] sm:pt-4 sm:pb-36 md:pb-24 lg:pb-0 lg:overflow-hidden ">
 				<div class="mx-auto max-w-7xl lg:px-8">
 					<div class="lg:grid lg:grid-cols-2 lg:gap-4">
 						<div
@@ -215,3 +216,6 @@
 					</div>
 				</div>
 			</div>
+
+
+            </div>
