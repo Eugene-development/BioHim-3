@@ -48,15 +48,15 @@
 								>О&nbsp;нас
 							</a>
 
-                            <a href="/" class="text-base font-medium text-white hover:text-gray-300"
+                            <a href="/products" class="text-base font-medium text-white hover:text-gray-300"
 								>Продукция</a
 							>
 
-                            <a href="/" class="text-base font-medium text-white hover:text-gray-300"
+                            <a href="/delivery" class="text-base font-medium text-white hover:text-gray-300"
 								>Доставка</a
 							>
 
-                            <a href="/" class="text-base font-medium text-white hover:text-gray-300"
+                            <a href="/contacts" class="text-base font-medium text-white hover:text-gray-300"
 								>Контакты</a
 							>
 
