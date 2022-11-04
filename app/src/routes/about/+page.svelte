@@ -1,0 +1,148 @@
+<script>
+    /** @type {import('./$types').PageData} */
+    // export let data;
+</script>
+
+				<div class="mt-8 bg-white pb-16 sm:mt-12 sm:pb-20 lg:pb-28">
+					<div class="relative">
+						<div class="absolute inset-0 h-1/2 bg-gray-100" />
+						<div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+							<div
+								class="max-w-lg mx-auto rounded-lg shadow-lg shadow-gray-400 overflow-hidden lg:max-w-none lg:flex"
+							>
+								<div class="flex-1 bg-white px-6 py-8 lg:p-12">
+									<h3 class="text-2xl font-bold text-gray-900 sm:text-3xl sm:tracking-tight">
+										ООО ТК "ФОРВАРД ЛАЙН"
+									</h3>
+									<p class="mt-6 text-base text-gray-700">
+										Более 8 лет мы занимаемся оптовой торговлей химической продукцией и, в
+										частности, медицинской и технической перекисью водорода. За это время
+										зарекомендовали себя как надёжного и лояльного контрагента, с которым можно
+										иметь длительные деловые отношения. Приглашаем вас к взаимовыгодному
+										сотрудничеству на постоянной основе.
+									</p>
+									<p class="mt-6 text-base text-gray-700">
+										Юридический адрес: Нижегородская область, г. Дзержинск, б-р Мира д. 27а, офис
+										302
+									</p>
+									<p class="mt-6 text-base text-gray-700">Директор: Смолина Анна Адольфовна</p>
+									<p class="mt-6 text-base text-gray-700">
+										Ведущий специалист: Ходаков Игорь Викторович
+									</p>
+									<div class="mt-8">
+										<div class="flex items-center">
+											<h3 class="flex-shrink-0 pr-4 bg-white text-2xl font-semibold text-cyan-600">
+												Реквизиты
+											</h3>
+											<div class="flex-1 border-t-2 border-gray-200" />
+										</div>
+										<ul
+											class="mt-8 space-y-5 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:gap-y-5"
+										>
+											<li class="flex items-start lg:col-span-1">
+												<div class="flex-shrink-0">
+													<!-- Heroicon name: solid/check-circle -->
+													<svg
+														class="h-5 w-5 text-cyan-600"
+														xmlns="http://www.w3.org/2000/svg"
+														viewBox="0 0 20 20"
+														fill="currentColor"
+														aria-hidden="true"
+													>
+														<path
+															fill-rule="evenodd"
+															d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+															clip-rule="evenodd"
+														/>
+													</svg>
+												</div>
+												<p class="ml-3 text-sm text-gray-700">ИНН 5249133142</p>
+											</li>
+
+											<li class="flex items-start lg:col-span-1">
+												<div class="flex-shrink-0">
+													<!-- Heroicon name: solid/check-circle -->
+													<svg
+														class="h-5 w-5 text-cyan-600"
+														xmlns="http://www.w3.org/2000/svg"
+														viewBox="0 0 20 20"
+														fill="currentColor"
+														aria-hidden="true"
+													>
+														<path
+															fill-rule="evenodd"
+															d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+															clip-rule="evenodd"
+														/>
+													</svg>
+												</div>
+												<p class="ml-3 text-sm text-gray-700">КПП 524901001</p>
+											</li>
+
+											<li class="flex items-start lg:col-span-1">
+												<div class="flex-shrink-0">
+													<!-- Heroicon name: solid/check-circle -->
+													<svg
+														class="h-5 w-5 text-cyan-600"
+														xmlns="http://www.w3.org/2000/svg"
+														viewBox="0 0 20 20"
+														fill="currentColor"
+														aria-hidden="true"
+													>
+														<path
+															fill-rule="evenodd"
+															d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+															clip-rule="evenodd"
+														/>
+													</svg>
+												</div>
+												<p class="ml-3 text-sm text-gray-700">ОГРН 1145249001853</p>
+											</li>
+
+											<li class="flex items-start lg:col-span-1">
+												<div class="flex-shrink-0">
+													<!-- Heroicon name: solid/check-circle -->
+													<svg
+														class="h-5 w-5 text-cyan-600"
+														xmlns="http://www.w3.org/2000/svg"
+														viewBox="0 0 20 20"
+														fill="currentColor"
+														aria-hidden="true"
+													>
+														<path
+															fill-rule="evenodd"
+															d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+															clip-rule="evenodd"
+														/>
+													</svg>
+												</div>
+												<p class="ml-3 text-sm text-gray-700">Регистрация 10.04.2014</p>
+											</li>
+										</ul>
+									</div>
+								</div>
+								<!--								<div class="py-8 px-6 text-center bg-gray-50 lg:flex-shrink-0 lg:flex lg:flex-col lg:justify-center lg:p-12">-->
+								<!--									<p class="text-lg leading-6 font-medium text-gray-900"></p>-->
+								<!--									<div class="mt-4 flex items-center justify-center text-5xl tracking-tight font-bold text-gray-900">-->
+								<!--										&lt;!&ndash;                            <span> ₽ 0</span>&ndash;&gt;-->
+								<!--										&lt;!&ndash;                            <span class="ml-3 text-xl font-medium text-gray-700 tracking-normal"> RUB </span>&ndash;&gt;-->
+								<!--									</div>-->
+								<!--									&lt;!&ndash;                        <p class="mt-4 text-sm">&ndash;&gt;-->
+								<!--									&lt;!&ndash;                            <a href="#" class="font-medium text-gray-700 underline"> Learn about our membership policy </a>&ndash;&gt;-->
+								<!--									&lt;!&ndash;                        </p>&ndash;&gt;-->
+								<!--									<div class="mt-6">-->
+								<!--										<div class="rounded-md shadow">-->
+								<!--											<a href="#" class="flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-800 hover:bg-gray-900"> Отправить запрос</a>-->
+								<!--										</div>-->
+								<!--									</div>-->
+								<!--									<div class="mt-4 text-sm">-->
+								<!--										<a href="#" class="font-medium text-gray-900">-->
+								<!--											Ответим на вашу почту в ближайшее время-->
+								<!--											<span class="font-normal text-gray-700"> </span>-->
+								<!--										</a>-->
+								<!--									</div>-->
+								<!--								</div>-->
+							</div>
+						</div>
+					</div>
+				</div>

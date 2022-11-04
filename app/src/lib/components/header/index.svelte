@@ -42,23 +42,25 @@
 						</div>
 
 						<div class="hidden md:flex space-x-8 md:ml-8 ">
-							<a href="#1" class="text-base font-medium text-white hover:text-gray-300">Главная</a>
+							<a href="/" class="text-base font-medium text-white hover:text-gray-300">Главная</a>
 
-							<a href="#2" class="text-base font-medium text-white hover:text-gray-300"
-								>Производство</a
-							>
-
-							<a href="#3" class="text-base font-medium text-white hover:text-gray-300"
-								>Информация</a
-							>
-
-							<a href="#4" class="text-base font-medium text-white hover:text-gray-300"
-								>Применение</a
-							>
-
-							<a href="#5" class="text-base font-medium text-white hover:text-gray-300"
+							<a href="/about" class="text-base font-medium text-white hover:text-gray-300"
 								>О&nbsp;нас
 							</a>
+
+                            <a href="/" class="text-base font-medium text-white hover:text-gray-300"
+								>Продукция</a
+							>
+
+                            <a href="/" class="text-base font-medium text-white hover:text-gray-300"
+								>Доставка</a
+							>
+
+                            <a href="/" class="text-base font-medium text-white hover:text-gray-300"
+								>Контакты</a
+							>
+
+
 						</div>
 					</div>
 					<div class="hidden xl:flex xl:items-center xl:space-x-6">
@@ -123,14 +125,4 @@
 				</nav>
 			</div>
 
-			<!--
-              Mobile menu, show/hide based on menu open state.
-
-              Entering: "duration-150 ease-out"
-                From: "opacity-0 scale-95"
-                To: "opacity-100 scale-100"
-              Leaving: "duration-100 ease-in"
-                From: "opacity-100 scale-100"
-                To: "opacity-0 scale-95"
-            -->
 		</header>
